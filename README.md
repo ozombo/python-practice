@@ -1,6 +1,6 @@
 # BASIC AND INTERMEDIATE PYTHON EXAMPLES
 
-Various code snippets in python to give you a basic understanding of the workings of one of if not the simplest programming language out there.
+Various code snippets in python to give you a basic understanding of the workings of one of if not the simplest programming languages out there. This repo was born out of an inspiration from https://github.com/ichtrojan/go-practice which a fine collection of examples in go-practice. Being a contributor to this repo I thought I'd make a python clone of it.
 
 To test any of the examples type the following into your terminal while in your working directory:
 
