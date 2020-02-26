@@ -5,3 +5,9 @@ Various code snippets in python to give you a basic understanding of the working
 To test any of the examples type the following into your terminal while in your working directory:
 
 python3 filename.py
+
+## Contributing
+
+Contribution is pretty much easy. Take a look at this repo https://github.com/ichtrojan/go-practice<br />
+Find examples that don't exist here<br />
+Re-create and make a PR!
