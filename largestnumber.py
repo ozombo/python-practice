@@ -9,4 +9,4 @@ for index in range(num_of_elements):
     my_arr.append(int(user_num)) # append each number to the array
 
 my_arr.sort(reverse = True) # sort array in descending order
-print(my_arr[0]) # print out the largest number which is the 1st element of the sorted array
+print( 'The largest number is ' + str(my_arr[0])) # print out the largest number which is the 1st element of the sorted array
