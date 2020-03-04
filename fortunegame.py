@@ -11,4 +11,5 @@ def getAnswer(answerNumber):
     
 r = random.randint(1, 3)
 fortune = getAnswer(r)
-print(fortune)
+print(str(r) + ' means ' + fortune)
+print(str(r) + ' means ' + getAnswer(random.randint(1, 3)))
