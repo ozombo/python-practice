@@ -17,4 +17,4 @@ month_ = mydate.strftime("%B")
 
 # display the calendar
 print('Calendar for ' + str(month_) + ' ' + str(year_))
-# print(calendar.month(year_, month_))
+print(calendar.month(year_, month_))
