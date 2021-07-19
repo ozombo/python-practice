@@ -5,7 +5,7 @@ Various code snippets in python to give you a basic understanding of the working
 ## Running the examples
 Git clone https://github.com/ozombo/python-examples.git
 
-cd python-examples
+cd python-examples && 
 python3 filename.py
 
 ## Contributing
